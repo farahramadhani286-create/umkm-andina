@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Contoh Struktur Dasar HTML</title>
+    <title>UMKM Risol</title>
   </head>
   <body>
-    <p>Halo, dunia!</p>
+    <p>Halo, semuanya! </p>
   </body>
 </html>
